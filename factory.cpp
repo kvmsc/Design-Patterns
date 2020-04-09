@@ -88,6 +88,7 @@ class AddressValidatorFactory{
 
 };
 
+//Instead used inline feater from C++17
 //Initializing static variables
 //AddressValidatorFactory* AddressValidatorFactory::valids = NULL;
 //unordered_map<string, AddressValidator*> AddressValidatorFactory::validators = unordered_map<string, AddressValidator*>();
